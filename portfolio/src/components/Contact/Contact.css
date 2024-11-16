@@ -7,6 +7,11 @@ a{
     text-decoration: none;
     color: grey;
 }
+a:hover{
+    text-decoration: underline;
+    color: black;
+    transition: 0.7s ease;
+}
 .contact-socials{
     display: flex;
     flex-direction: row;

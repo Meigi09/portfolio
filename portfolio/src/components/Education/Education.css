@@ -1,0 +1,7 @@
+ul{
+    padding-top: 20px;
+
+}
+li::marker {
+    color: grey;
+}

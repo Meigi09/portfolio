@@ -1,5 +1,5 @@
 import './About.css'
-import profile from '../../assets/profile.svg'
+import profile from '../../assets/usr.jpg'
 
 export default function About() {
     return(
@@ -12,7 +12,7 @@ export default function About() {
 
                 </div>
                 <div className="about-profile">
-                    <img src={profile} alt="" width="100px" height="100px"/>
+                    <img src={profile} alt="" width="300px" height="300px" className="about-image"/>
                 </div>
             </div>
         </section>
