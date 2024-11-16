@@ -1,0 +1,18 @@
+
+.contact-name{
+    text-align: center;
+    padding-top: 30px;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+.contact-socials{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    gap: 8px;
+    margin-bottom: 20px;
+}

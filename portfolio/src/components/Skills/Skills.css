@@ -1,0 +1,10 @@
+
+table,th,tr,td{
+    padding: 10px;
+    border: 1px solid;
+    border-collapse: collapse;
+    font-size: 1rem;
+}
+.skills-table{
+    margin-top:40px;
+}
